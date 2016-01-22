@@ -1,0 +1,28 @@
+name: untytled
+favicon: null
+layout_spectrum: 0.5218592693563551
+typography_spectrum: 0.8069689453113824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7449477768968791
+  lightness: 0.40547511633485556
+  saturation: 0.39393714629113674
+  rhythmicContrast: 0.5084599086549133
+purpose: []
