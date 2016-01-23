@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Tequila Sunrise in the Mountains
-datePublished: '2016-01-23T20:41:03.908Z'
-dateModified: '2016-01-23T20:40:17.066Z'
+description: Happy Hour in the Mountains
+datePublished: '2016-01-23T20:41:16.045Z'
+dateModified: '2016-01-23T20:39:18.780Z'
 title: California
 author: []
 authors: []
@@ -24,10 +24,9 @@ _type: Blurb
 ---
 # California
 
-## Tequila Sunrise in the Mountains
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/420b14cdfec45206993e04cc93468842d243dbc6.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/47e02a8c86e5aa4c4355ad9ff23cbc3ef2cc3183.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeafe7cc57436247a833a8e43c0e3d42589bb372.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9eccca3eb849dcd07f054c8857454506347ff75f.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/951c21fa60b1420562cd01c5a373bc71a192c9d2.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27b687741f157045fa442f0fa226eb3aa4f46f4.jpg)
+## Happy Hour in the Mountains
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f43ee535-0258-4af2-b680-9871bcbc9cf1.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9693df8-4415-4605-8d89-c34c597b1a52.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca11fafe-0f4f-48d7-aca0-dc484debbabc.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec6c833f-4e8a-4b0e-9f82-8baa0f306bbc.JPG)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/acefbb81-03bd-42b4-9b67-c4183269d02d.JPG)
