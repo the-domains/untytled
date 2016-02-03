@@ -4,7 +4,7 @@
         <description><![CDATA[untytled]]></description>
         <link>https://thegrid.ai/untytled/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 03:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 03:01:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/untytled/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/untytled/83c8047f-cdba-43fd-b852-a2ef6684b706/index.html</link>
             <guid isPermaLink="false">83c8047f-cdba-43fd-b852-a2ef6684b706</guid>
             <pubDate>Wed, 03 Feb 2016 02:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c962b08-d88e-4807-a09e-efd72bf18993.JPG">]]></description>
-            <link>https://thegrid.ai/untytled/d29a9367-6918-4989-a032-5c5bec626db9/index.html</link>
-            <guid isPermaLink="false">d29a9367-6918-4989-a032-5c5bec626db9</guid>
-            <pubDate>Wed, 03 Feb 2016 02:59:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
