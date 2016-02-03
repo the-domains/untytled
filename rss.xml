@@ -4,7 +4,7 @@
         <description><![CDATA[untytled]]></description>
         <link>https://thegrid.ai/untytled/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 02:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 02:45:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/untytled/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[coming soon]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/untytled/8c3466df-4cef-428c-baad-bd8e8f0a1801/index.html</link>
             <guid isPermaLink="false">8c3466df-4cef-428c-baad-bd8e8f0a1801</guid>
             <pubDate>Wed, 03 Feb 2016 02:43:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Immortal]]></title>
-            <description><![CDATA[<article><h1>Immortal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95af7573fa9dce3d1234d38ad6c582ab359560e9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/untytled/immortal/index.html</link>
-            <guid isPermaLink="false">f9a074cc-96ac-4cc3-866e-2a0598c47475</guid>
-            <pubDate>Tue, 02 Feb 2016 23:09:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
