@@ -1,6 +1,6 @@
 name: untytled
 favicon: null
-layout_spectrum: 0.5218592693563551
+layout_spectrum: 0.25964
 typography_spectrum: 0.8069689453113824
 title: untytled
 cta:
@@ -22,7 +22,7 @@ color:
     - '#696969'
     - '#b9b9b9'
     - '#515151'
-  brandStrength: 0.7449477768968791
+  brandStrength: 0.6875
   lightness: 0.40547511633485556
   saturation: 0.39393714629113674
   rhythmicContrast: 0.5084599086549133
